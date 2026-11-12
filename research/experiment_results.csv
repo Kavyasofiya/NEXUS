@@ -1,0 +1,91 @@
+round,task_number,category,condition,success,verified,passed_tests,total_tests,memory_count,correction_attempted,correction_succeeded,recovery_method,execution_time_seconds
+1,1,Arrays,NEXUS VERIFIED MEMORY,True,True,3,3,2,False,False,None,5.87
+1,1,Arrays,BASELINE,True,True,3,3,0,False,False,None,11.86
+1,1,Arrays,ORDINARY MEMORY,True,True,3,3,0,False,False,None,8.54
+1,2,Arrays,BASELINE,True,True,4,4,0,False,False,None,11.37
+1,2,Arrays,NEXUS VERIFIED MEMORY,True,True,4,4,0,False,False,None,10.84
+1,2,Arrays,ORDINARY MEMORY,True,True,4,4,1,False,False,None,16.43
+1,3,Strings,BASELINE,True,True,4,4,0,False,False,None,6.34
+1,3,Strings,NEXUS VERIFIED MEMORY,True,True,4,4,0,False,False,None,4.09
+1,3,Strings,ORDINARY MEMORY,True,True,4,4,2,False,False,None,10.25
+1,4,Strings,NEXUS VERIFIED MEMORY,True,True,4,4,0,True,True,AI correction,34.62
+1,4,Strings,ORDINARY MEMORY,True,True,4,4,3,True,True,AI correction,27.24
+1,4,Strings,BASELINE,True,True,4,4,0,True,True,AI correction,31.41
+1,5,Mathematics,NEXUS VERIFIED MEMORY,True,True,4,4,0,False,False,None,11.65
+1,5,Mathematics,ORDINARY MEMORY,True,True,4,4,3,False,False,None,11.94
+1,5,Mathematics,BASELINE,True,True,4,4,0,False,False,None,11.77
+1,6,Mathematics,BASELINE,True,True,5,5,0,False,False,None,9.68
+1,6,Mathematics,ORDINARY MEMORY,True,True,5,5,3,False,False,None,14.21
+1,6,Mathematics,NEXUS VERIFIED MEMORY,True,True,5,5,0,False,False,None,10.21
+2,1,Arrays,NEXUS VERIFIED MEMORY,True,True,3,3,2,False,False,None,6.97
+2,1,Arrays,BASELINE,True,True,3,3,0,False,False,None,12.11
+2,1,Arrays,ORDINARY MEMORY,True,True,3,3,0,False,False,None,8.75
+2,2,Arrays,ORDINARY MEMORY,True,True,4,4,1,False,False,None,13.92
+2,2,Arrays,BASELINE,True,True,4,4,0,False,False,None,10.59
+2,2,Arrays,NEXUS VERIFIED MEMORY,True,True,4,4,0,False,False,None,10.6
+2,3,Strings,BASELINE,True,True,4,4,0,False,False,None,6.27
+2,3,Strings,NEXUS VERIFIED MEMORY,True,True,4,4,0,False,False,None,4.08
+2,3,Strings,ORDINARY MEMORY,True,True,4,4,2,False,False,None,10.21
+2,4,Strings,BASELINE,True,True,4,4,0,True,True,AI correction,31.92
+2,4,Strings,NEXUS VERIFIED MEMORY,True,True,4,4,0,True,True,AI correction,31.25
+2,4,Strings,ORDINARY MEMORY,True,True,4,4,3,True,True,AI correction,21.37
+2,5,Mathematics,ORDINARY MEMORY,True,True,4,4,3,False,False,None,11.85
+2,5,Mathematics,NEXUS VERIFIED MEMORY,True,True,4,4,0,False,False,None,11.7
+2,5,Mathematics,BASELINE,True,True,4,4,0,False,False,None,11.85
+2,6,Mathematics,BASELINE,True,True,5,5,0,False,False,None,9.71
+2,6,Mathematics,NEXUS VERIFIED MEMORY,True,True,5,5,0,False,False,None,9.55
+2,6,Mathematics,ORDINARY MEMORY,True,True,5,5,3,False,False,None,14.11
+3,1,Arrays,BASELINE,True,True,3,3,0,False,False,None,8.45
+3,1,Arrays,ORDINARY MEMORY,True,True,3,3,0,False,False,None,8.66
+3,1,Arrays,NEXUS VERIFIED MEMORY,True,True,3,3,2,False,False,None,6.85
+3,2,Arrays,ORDINARY MEMORY,True,True,4,4,1,False,False,None,13.8
+3,2,Arrays,NEXUS VERIFIED MEMORY,True,True,4,4,0,False,False,None,10.58
+3,2,Arrays,BASELINE,True,True,4,4,0,False,False,None,10.84
+3,3,Strings,BASELINE,True,True,4,4,0,False,False,None,4.11
+3,3,Strings,NEXUS VERIFIED MEMORY,True,True,4,4,0,False,False,None,4.11
+3,3,Strings,ORDINARY MEMORY,True,True,4,4,2,False,False,None,11.52
+3,4,Strings,ORDINARY MEMORY,True,True,4,4,3,True,True,AI correction,26.47
+3,4,Strings,BASELINE,True,True,4,4,0,True,True,AI correction,28.42
+3,4,Strings,NEXUS VERIFIED MEMORY,True,True,4,4,0,True,True,AI correction,32.2
+3,5,Mathematics,BASELINE,True,True,4,4,0,False,False,None,11.46
+3,5,Mathematics,NEXUS VERIFIED MEMORY,True,True,4,4,0,False,False,None,11.55
+3,5,Mathematics,ORDINARY MEMORY,True,True,4,4,3,False,False,None,11.84
+3,6,Mathematics,NEXUS VERIFIED MEMORY,True,True,5,5,0,False,False,None,9.64
+3,6,Mathematics,ORDINARY MEMORY,True,True,5,5,3,False,False,None,14.08
+3,6,Mathematics,BASELINE,True,True,5,5,0,False,False,None,9.57
+4,1,Arrays,ORDINARY MEMORY,True,True,3,3,0,False,False,None,8.44
+4,1,Arrays,NEXUS VERIFIED MEMORY,True,True,3,3,2,False,False,None,5.45
+4,1,Arrays,BASELINE,True,True,3,3,0,False,False,None,10.4
+4,2,Arrays,NEXUS VERIFIED MEMORY,True,True,4,4,0,False,False,None,11.59
+4,2,Arrays,ORDINARY MEMORY,True,True,4,4,1,False,False,None,15.03
+4,2,Arrays,BASELINE,True,True,4,4,0,False,False,None,10.62
+4,3,Strings,NEXUS VERIFIED MEMORY,True,True,4,4,0,False,False,None,4.12
+4,3,Strings,BASELINE,True,True,4,4,0,False,False,None,4.14
+4,3,Strings,ORDINARY MEMORY,True,True,4,4,2,False,False,None,10.36
+4,4,Strings,NEXUS VERIFIED MEMORY,True,True,4,4,0,True,True,AI correction,31.3
+4,4,Strings,ORDINARY MEMORY,True,True,4,4,3,True,True,AI correction,33.16
+4,4,Strings,BASELINE,True,True,4,4,0,True,True,AI correction,38.64
+4,5,Mathematics,BASELINE,True,True,4,4,0,False,False,None,12.37
+4,5,Mathematics,NEXUS VERIFIED MEMORY,True,True,4,4,0,False,False,None,11.61
+4,5,Mathematics,ORDINARY MEMORY,True,True,4,4,3,False,False,None,18.45
+4,6,Mathematics,ORDINARY MEMORY,True,True,5,5,3,False,False,None,22.89
+4,6,Mathematics,NEXUS VERIFIED MEMORY,True,True,5,5,0,False,False,None,9.69
+4,6,Mathematics,BASELINE,True,True,5,5,0,False,False,None,10.08
+5,1,Arrays,ORDINARY MEMORY,True,True,3,3,0,False,False,None,8.42
+5,1,Arrays,BASELINE,True,True,3,3,0,False,False,None,9.58
+5,1,Arrays,NEXUS VERIFIED MEMORY,True,True,3,3,2,False,False,None,6.55
+5,2,Arrays,ORDINARY MEMORY,True,True,4,4,1,False,False,None,14.08
+5,2,Arrays,BASELINE,True,True,4,4,0,False,False,None,10.6
+5,2,Arrays,NEXUS VERIFIED MEMORY,True,True,4,4,0,False,False,None,10.61
+5,3,Strings,BASELINE,True,True,4,4,0,False,False,None,4.13
+5,3,Strings,ORDINARY MEMORY,True,True,4,4,2,False,False,None,10.46
+5,3,Strings,NEXUS VERIFIED MEMORY,True,True,4,4,0,False,False,None,4.14
+5,4,Strings,ORDINARY MEMORY,True,True,4,4,3,True,True,AI correction,28.28
+5,4,Strings,NEXUS VERIFIED MEMORY,True,True,4,4,0,True,True,Rule-based fallback,33.75
+5,4,Strings,BASELINE,True,True,4,4,0,True,True,AI correction,31.09
+5,5,Mathematics,NEXUS VERIFIED MEMORY,True,True,4,4,0,False,False,None,11.59
+5,5,Mathematics,ORDINARY MEMORY,True,True,4,4,3,False,False,None,19.05
+5,5,Mathematics,BASELINE,True,True,4,4,0,False,False,None,11.6
+5,6,Mathematics,BASELINE,True,True,5,5,0,False,False,None,9.57
+5,6,Mathematics,NEXUS VERIFIED MEMORY,True,True,5,5,0,False,False,None,9.54
+5,6,Mathematics,ORDINARY MEMORY,True,True,5,5,3,False,False,None,22.55

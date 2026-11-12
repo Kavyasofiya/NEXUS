@@ -1,0 +1,7 @@
+round,mode,task,passed_tests,total_tests,success,response_time_seconds,retrieved_memories,retrieved_failures
+1,verified_memory_only,Write a Python function named square that returns the square of a number.,3,3,True,15.57,1,0
+1,verified_and_failure_memory,Write a Python function named square that returns the square of a number.,3,3,True,9.9,1,2
+2,verified_memory_only,Write a Python function named square that returns the square of a number.,3,3,True,2.24,1,0
+2,verified_and_failure_memory,Write a Python function named square that returns the square of a number.,3,3,True,2.27,1,2
+3,verified_memory_only,Write a Python function named square that returns the square of a number.,3,3,True,2.19,1,0
+3,verified_and_failure_memory,Write a Python function named square that returns the square of a number.,3,3,True,2.2,1,2
