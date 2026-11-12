@@ -1,6 +1,7 @@
 
-const API_URL = "http://127.0.0.1:8000/solve";
-
+const API_URL = (
+    window.NEXUS_API_URL || "http://127.0.0.1:8000"
+) + "/solve";
 let latestCode = "";
 
 function showResult(elementId, content) {
